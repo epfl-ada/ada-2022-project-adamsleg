@@ -1,5 +1,6 @@
 
-Link to Data Story:  https://gianniii.github.io/adaProjectADAMsLEG/
+### Link to Data Story :  
+https://gianniii.github.io/adaProjectADAMsLEG/
 
 # Mental health during lockdowns through the eyes of Wikipedia
 
@@ -26,7 +27,7 @@ We treat this analysis as an observational study. We decided to consider 5 menta
  
 ##### Question 1:
 
-For this question we will use two datasets: Wikipedia:Pageview statistics and Google Trends. For each period and disease, we will use the number of Wikipedia page views about this disease in the given language. Thus, for each day we will have 5 numbers that describe the distribution of the number of page views. We will investigate both the changes in the raw viewership in comparison to changes in Stem.Medicine & Health from aggregated topics dataset and distribution of viewership between the diseases. To analyze this question, we will use several approaches:
+For this question we will use two datasets: Wikipedia:Pageview statistics. For each period and disease, we will use the number of Wikipedia page views about this disease in the given language. Thus, for each day we will have 5 numbers that describe the distribution of the number of page views. We will investigate both the changes in the raw viewership in comparison to changes in Stem.Medicine & Health from aggregated topics dataset and distribution of viewership between the diseases. To analyze this question, we will use several approaches:
 
 A similar approach as in the [relevant paper](https://arxiv.org/pdf/2005.08505.pdf). The article examined how the COVID-19 lockdown, along with the severe mobility restrictions, affected access to information on Wikipedia and people's information-seeking patterns. The research questions are similar to ours, so we will use ideas "Difference-in-differences regression" (Sec. 3.2) and "Distances From Normality" (Sec. 3.3) from the article in our research.
 
