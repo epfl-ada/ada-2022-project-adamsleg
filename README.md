@@ -1,5 +1,5 @@
 
-Link to datastory: https://gianniii.github.io/adaProjectADAMsLEG/
+Link to Data Story:  https://gianniii.github.io/adaProjectADAMsLEG/
 
 # Mental health during lockdowns through the eyes of Wikipedia
 
