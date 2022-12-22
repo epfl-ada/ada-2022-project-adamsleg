@@ -28,8 +28,7 @@ We treat this analysis as an observational study. We decided to consider 5 menta
 
 For this question we will use two datasets: Wikipedia:Pageview statistics and Google Trends. For each period and disease, we will use the number of Wikipedia page views about this disease in the given language. Thus, for each day we will have 5 numbers that describe the distribution of the number of page views. We will investigate both the changes in the raw viewership in comparison to changes in Stem.Medicine & Health from aggregated topics dataset and distribution of viewership between the diseases. To analyze this question, we will use several approaches:
 
-1. ANOVA test followed by a Post-Hoc comparison such as a Scheffé Test of the distributions during covid and before / after lockdown.
-2. A similar approach as in the [relevant paper](https://arxiv.org/pdf/2005.08505.pdf). The article examined how the COVID-19 lockdown, along with the severe mobility restrictions, affected access to information on Wikipedia and people's information-seeking patterns. The research questions are similar to ours, so we will use ideas "Difference-in-differences regression" (Sec. 3.2) and "Distances From Normality" (Sec. 3.3) from the article in our research.
+A similar approach as in the [relevant paper](https://arxiv.org/pdf/2005.08505.pdf). The article examined how the COVID-19 lockdown, along with the severe mobility restrictions, affected access to information on Wikipedia and people's information-seeking patterns. The research questions are similar to ours, so we will use ideas "Difference-in-differences regression" (Sec. 3.2) and "Distances From Normality" (Sec. 3.3) from the article in our research.
 
 ##### Question 2:
  
@@ -51,6 +50,7 @@ To investigate this question, we will proceed as in question 1, however using th
   + Analysis of Q2
 * Gianni:
   + Google trends, Google and Apple mobility reports
+  + Analysis of Q2
   + website
 * Mekhron:
   + Wikipedia Pageviews dataset on mental health issues
